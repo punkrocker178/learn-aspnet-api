@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F4Im6CJkKARaoeC/r6s9IjvsV1WeknRNvl1y9qneC1w=",
+  "Source": "demo-asp.net",
+  "BasePath": "_content/demo-asp.net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
